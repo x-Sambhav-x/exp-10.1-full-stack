@@ -1,0 +1,13 @@
+todo-app/
+ ├── backend/
+ │    ├── server.js
+ │    ├── models/Todo.js
+ │    ├── routes/todoRoutes.js
+ │    ├── package.json
+ │
+ └── frontend/
+      ├── src/
+      │   ├── App.js
+      │   ├── TodoItem.js
+      │   ├── api.js
+      ├── package.json
